@@ -7,7 +7,7 @@ const router = express.Router()
 
 // Constants
 //const PORT = 8080;
-const PORT = 7046;
+const PORT = 7045;
 
 const HOST = '0.0.0.0';
 
